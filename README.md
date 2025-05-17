@@ -9,7 +9,7 @@
 git clone https://github.com/zulqarnain-git/Full-Stack-Maintenance-React.git
 
 # Navigate to project directory
-cd western-web-task
+cd your folder directory
 
 # Install dependencies
 npm install
